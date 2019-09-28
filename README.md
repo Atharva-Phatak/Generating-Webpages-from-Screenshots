@@ -15,8 +15,13 @@ The author of the paper "Pix2Code" paper was kind enough to make the dataset ope
 
 Here's how it looks..
 
-**Screenshot and Code** 
-![png](https://github.com/Atharva-Phatak/Generating-Webpages-from-Screenshots/blob/master/Images/0CE73E18-575A-4A70-9E40-F000B250344F.png)![gui](https://github.com/Atharva-Phatak/Generating-Webpages-from-Screenshots/blob/master/Images/Capture.JPG)
+**Screenshots and Codes**
+
+![ss](https://github.com/Atharva-Phatak/Generating-Webpages-from-Screenshots/blob/master/Images/ss.JPG)
+
+
+
+
 
 So we are only interested in the  GUI Layout , the various components(button , etc) and their relationship and hence actual value of text label can be ignored. The DSL consists of 18 vocabulary token. The pix2code datasaet consists of 3500 images and DSL code pairs.
 
